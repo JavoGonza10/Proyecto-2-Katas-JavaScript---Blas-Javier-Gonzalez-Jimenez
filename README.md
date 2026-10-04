@@ -1,1 +1,1 @@
-# Proyecto-2-Katas-JavaScript---Blas-Javier-Gonzalez-Jimenez
+# Proyecto-2-Katas-JavaScript-Blas-Javier-Gonzalez-Jimenez
